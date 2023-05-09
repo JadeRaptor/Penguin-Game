@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Boomerang
+comment0.text=\r\n\ \r\n\ @author\ (Jacob\ Richard)\ \r\n\ @version\ (Spring,\ 2023)\r\n\ \r\n\ \r\n\ \r\n\ boomerang\ attributes\ implemented\ for\ world\r\n\ boomerang\ helps\ tux\ collect\ fish\ and\ balloons\ but\ not\ bombs\r\n\r\n\ \r\n
+comment1.params=
+comment1.target=Boomerang()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ sets\ the\ tux\ reference\ to\ the\ world\ when\ boomerang\ added\r\n\ @param\ world\ world\ to\ which\ the\ boomerang\ objects\ is\ added\ to\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ if\ to\ carry\ out\ boomerang\ functions\r\n\ else\ for\ movement\ and\ next\ condition\ of\ boomerang\ being\ thrown\r\n
+comment4.params=
+comment4.target=void\ throwBoomerang()
+comment4.text=\r\n\ throws\ the\ boomerang\ and\ returns\ it\ to\ tux\r\n\ will\ boomerang\ is\ thrown\ tux\ cannot\ move\ until\ it\ returns\r\n
+comment5.params=
+comment5.target=void\ grabObjects()
+comment5.text=\r\n\ allows\ the\ boomerang\ to\ acquire\ fish\ and\ balloons\r\n
+comment6.params=
+comment6.target=void\ moveWithTux()
+comment6.text=\r\n\ move\ the\ boomerang\ along\ with\ tux\r\n
+comment7.params=
+comment7.target=void\ checkKeyPress()
+comment7.text=\r\n\ spacebar\ utilized\ to\ throw\ the\ boomerang\r\n
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Balloon
+comment0.text=\r\n\ @author\ (Jacob\ Richard)\ \r\n\ @version\ (Spring,\ 2023)\r\n\ \r\n\ Balloon\ class\ for\ game\r\n\ \r\n\ \r\n
+comment1.params=
+comment1.target=Balloon()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

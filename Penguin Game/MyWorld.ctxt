@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ create\ subclass\ MyWorld\ of\ the\ World\ class\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ spawn\ in\ the\ world\ by\ push\ the\ s-key,\ invoking\ the\ prepare\ method\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ invoke\ prepare\ method\r\n
+comment4.params=
+comment4.target=void\ addTux()
+comment4.text=\r\n\ a\ method\ created\ to\ add\ Tux\r\n
+comment5.params=numBalloons
+comment5.target=void\ addBalloons(int)
+comment5.text=\r\n\ a\ method\ created\ to\ add\ balloons\r\n
+comment6.params=numFish
+comment6.target=void\ addFish(int)
+comment6.text=\r\n\ a\ method\ created\ to\ add\ fish\r\n
+comment7.params=numBombs
+comment7.target=void\ addRandomBomb(int)
+comment7.text=\r\n\ a\ method\ created\ to\ add\ bombs\r\n
+comment8.params=
+comment8.target=void\ addBoomerang()
+comment8.text=\r\n\ method\ to\ add\ boomerang\ randomly\ on\ screen\r\n
+numComments=9
